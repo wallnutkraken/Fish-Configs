@@ -1,0 +1,5 @@
+setenv BROWSER "/usr/bin/firefox"
+alias reboot "sudo shutdown -r now"
+setenv TERM "xterm-256color"
+set fish_greeting ""
+alias emacs "emacs -nw"
